@@ -1,5 +1,5 @@
 /*
-There is three thing that the robot should be able to do; growing, retracting and stop when needed. 
+There are three thing that the robot should be able to do; growing, retracting and stop when needed. 
 So the motor is going to be forward in direction for growing and reverse for retracting. 
 Also we can control the pace of the motions. 
 Starting pace of forward or reverse motion are supposed as 150. Minimum pace determined via testing.
